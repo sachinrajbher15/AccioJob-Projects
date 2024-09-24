@@ -1,0 +1,196 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    color: white;
+    line-height: 1.6;
+}
+
+.container {
+    width: 96%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.navbar {
+    background-color: #f0ca23;
+    color: black;
+    padding: 10px 0;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.navbar .logo {
+    float: left;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.navbar .nav-links {
+    float: right;
+    display: flex;
+    align-items: center;
+}
+
+.navbar .nav-links a {
+    text-decoration: none;
+    padding: 0 35px;
+    color: black;
+    padding-top: 4px;
+}
+
+.intro-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0;
+}
+
+.intro-container {
+    display: flex;
+    width: 100%;
+    margin-left: 25px;
+}
+
+.intro-left {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.intro-left h1 {
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-size: 2.5em;
+}
+
+.intro-left p {
+    color: #ffffff;
+    font-size: 1em;
+}
+
+.login-button {
+    background-color: #f0ca23;
+    color: black;
+    padding: 15px 60px;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+.intro-right {
+    flex: 1;
+    text-align: right;
+}
+
+.intro-right img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-right: 50px;
+}
+
+.contact-section {
+    padding: 50px 0;
+}
+
+.contact-section h1 {
+    color: #f0ca23;
+    font-size: 2.5em;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.contact-input input {
+    width: 97.4%;
+    background-color: #000000;
+    padding: 15px;
+    border: 2px solid #f0ca23;
+    border-radius: 25px;
+    font-size: 1em;
+    color: white;
+}
+
+.contact-input input::placeholder {
+    color: #f0ca23;
+}
+
+.contact-input-row {
+    display: flex;
+    gap: 10px;
+}
+
+.contact-input-row input {
+    flex: 1;
+    background-color: #000000;
+    padding: 15px;
+    border: 2px solid #f0ca23;
+    border-radius: 25px;
+    font-size: 1em;
+    color: white;
+}
+
+.contact-input-row input::placeholder {
+    color: #f0ca23;
+}
+
+.submit-button {
+    padding: 15px 30px;
+    border-radius: 25px;
+    background-color: #f0ca23;
+    color: black;
+    border: none;
+    font-size: 1em;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+}
+
+.startup-table {
+    background-color: #000000;
+    padding: 20px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #f0ca23;
+}
+
+.table-header th,
+.table-body td {
+    border: 2px solid #f0ca23;
+    padding: 15px;
+    text-align: left;
+}
+
+.table-footer {
+    background-color: #f0ca23;
+    color: black;
+    font-weight: bold;
+}
+
+.table-footer td {
+    padding: 15px;
+    text-align: left;
+}
+
+.table-footer td:first-child,
+.table-footer td:nth-child(2) {
+    border-right: 2px solid #000000;
+}
+
+.table-header th:first-child,
+.table-body td:first-child,
+.table-footer td:first-child {
+    text-align: center;
+}
