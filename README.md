@@ -1,6 +1,6 @@
 ## AccioJob Projects
 
-## [Module Projects](/Module/README.md)
+## [Module Projects](https://github.com/sachinrajbher15/AccioJob-Projects/tree/main/Module)
 
 ## [Other](/Other/README.md)
 
