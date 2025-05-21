@@ -9,3 +9,7 @@
 #### [Frontend2 Module Project](https://sachinrajbher15.github.io/AccioJob-Projects/Module/Frontend2%20Module%20Project/)
 
 #### [Frontend3 Contest1 Oct24](https://sachinrajbher15.github.io/AccioJob-Projects/Module/Frontend3%20Contest1%20Oct24/)
+
+#### [Frontend3 Contest2 Oct24](https://sachinrajbher15.github.io/AccioJob-Projects/Module/Frontend3%20Contest%202Oct24/)
+
+#### [Frontend3 Module Project Nov24](https://sachinrajbher15.github.io/AccioJob-Projects/Module/Frontend3%20Module%20Project%20Nov24/)
