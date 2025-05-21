@@ -5,3 +5,5 @@
 #### [Frontend1 Module Project](https://sachinrajbher15.github.io/AccioJob-Projects/Module/Frontend1%20Module%20Project/)
 
 #### [Frontend2 Contest1 Sep24](https://sachinrajbher15.github.io/AccioJob-Projects/Module/Frontend2%20Contest1%20Sep24/)
+
+#### [Frontend2 Module Project](https://sachinrajbher15.github.io/AccioJob-Projects/Module/Frontend2%20Module%20Project/)
